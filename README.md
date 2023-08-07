@@ -8,10 +8,6 @@ I am a Flutter Mobile Application Developer and a Design Enthusiast.
 
 🎧 Music is my best friend.
 
-💡 Passionate about designing graphic content.
-
-
-
 
 <!---
 rohith18n/rohith18n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
