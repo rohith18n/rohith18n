@@ -6,7 +6,7 @@ I am a Flutter Mobile Application Developer and a Design Enthusiast.
 
 💻 Loves to code and solve problems.
 
-🎧 Music is my best friend.
+
 
 
 <!---
