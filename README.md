@@ -43,7 +43,7 @@
     <img src="https://avatars.githubusercontent.com/u/53334409?s=280&v=4" alt="Codemagic" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/354553/websocket.svg" alt="WebSocket" width="40" height="40"/>
+    <img src="https://www.google.com/imgres?q=websocket%20orange%20svg%20icon&imgurl=https%3A%2F%2Frepository-images.githubusercontent.com%2F159722346%2Fcd6aea00-9079-11ea-8f48-771cb5a8dffc&imgrefurl=https%3A%2F%2Fgithub.com%2FMarfusios%2Fwebsocket-client&docid=pPwHlVv27tMXTM&tbnid=xMjdGCcreGJHmM&vet=12ahUKEwj_wsXb5sCNAxXEUGcHHZT0FsgQM3oECB4QAA..i&w=267&h=200&hcb=2&ved=2ahUKEwj_wsXb5sCNAxXEUGcHHZT0FsgQM3oECB4QAA" alt="WebSocket" width="40" height="40"/>
   </a>
 </p>
 
