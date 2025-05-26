@@ -28,7 +28,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Android_Studio_Logo_2024.svg/800px-Android_Studio_Logo_2024.svg.png" alt="Android Studio 2024" width="40" height="40"/>
   </a>
   <a href="https://play.google.com/store" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/external-square-play-button-for-android-application-store-logo-color-tal-revivo.png](https://www.google.com/imgres?q=google%20play%20icon&imgurl=https%3A%2F%2Fimage.similarpng.com%2Ffile%2Fsimilarpng%2Fvery-thumbnail%2F2020%2F12%2FGoogle-play-icon-illustration-premium-vector-PNG.png&imgrefurl=https%3A%2F%2Fsimilarpng.com%2Fcollection%2Fgoogle-play%2F&docid=3_LsiNJ-s6NTpM&tbnid=D9pcj9x4LQqjJM&vet=12ahUKEwjW2-nQ48CNAxWET2wGHTapMDIQM3oECBkQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjW2-nQ48CNAxWET2wGHTapMDIQM3oECBkQAA" alt="Google Play" width="40" height="40"/>
+    <img src="https://www.google.com/imgres?q=google%20play%20icon&imgurl=https%3A%2F%2Fimage.similarpng.com%2Ffile%2Fsimilarpng%2Fvery-thumbnail%2F2020%2F12%2FGoogle-play-icon-illustration-premium-vector-PNG.png&imgrefurl=https%3A%2F%2Fsimilarpng.com%2Fcollection%2Fgoogle-play%2F&docid=3_LsiNJ-s6NTpM&tbnid=D9pcj9x4LQqjJM&vet=12ahUKEwjW2-nQ48CNAxWET2wGHTapMDIQM3oECBkQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwjW2-nQ48CNAxWET2wGHTapMDIQM3oECBkQAA" alt="Google Play" width="40" height="40"/>
   </a>
   <a href="https://www.amazon.com/appstore" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/fluency/48/amazon-appstore.png" alt="Amazon Appstore" width="40" height="40"/>
