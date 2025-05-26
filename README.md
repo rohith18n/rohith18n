@@ -34,7 +34,8 @@
     <img src="https://img.icons8.com/fluency/48/amazon-appstore.png" alt="Amazon Appstore" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/app-store-connect/" target="_blank" rel="noreferrer">
-    <img src="https://developer.apple.com/news/images/og/asc-og.png" alt="App Store Connect" width="40" height="40"/>
+    <img src="https://www.google.com/imgres?q=appstore%20connect%20png%20icon&imgurl=https%3A%2F%2Fstatic.wikia.nocookie.net%2Flogopedia%2Fimages%2F0%2F02%2FNew_App_Store_connect_logo.png%2Frevision%2Flatest%3Fcb%3D20210628215439&imgrefurl=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FApp_Store_Connect&docid=GwXdwDq0V2uqGM&tbnid=Jp17PURGAUwZqM&vet=12ahUKEwiapLaK6MCNAxWITWwGHaoeIysQM3oECBYQAA..i&w=1024&h=1024&hcb=2&ved=2ahUKEwiapLaK6MCNAxWITWwGHaoeIysQM3oECBYQAA![image](https://github.com/user-attachments/assets/0b7e567a-0bd4-4900-aa0b-655be435f525)
+" alt="App Store Connect" width="40" height="40"/>
   </a>
   <a href="https://developer.apple.com/testflight/" target="_blank" rel="noreferrer">
     <img src="https://developer.apple.com/news/images/og/testflight-og.png" alt="TestFlight" width="40" height="40"/>
